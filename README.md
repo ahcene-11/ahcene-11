@@ -3,16 +3,32 @@
 
 ---
 
-### 🚀 À propos de moi
+<table>
+<tr>
+<td width="55%" valign="top">
 
-- 🎓 Étudiant en informatique
-- 🌱 J'apprends actuellement : Spring Boot
-- 💡 Intéressé par le développement backend
-- 📫 Contact : amouchasahcene11@gmail.com
-- 💼 LinkedIn : https://www.linkedin.com/in/ahc%C3%A8ne-amouchas-a3037a327/
+### 👨‍💻 À propos de moi
+
+- 🎓 Étudiant en Master Génie de l'informatique logicielle 
+- 📫 Contact : **amouchasahcene11@gmail.com**  
+- 💼 LinkedIn : [Ahcène Amouchas](https://www.linkedin.com/in/ahc%C3%A8ne-amouchas-a3037a327/)
+
+</td>
+
+<td width="50%" align="right">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+</td>
+</tr>
+</table>
+
+
+
+
 ---
 
-### Langages 
+## Langages 
 <p>
   <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,py,c" />
 </p>
@@ -45,7 +61,5 @@
   <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=TON_USERNAME&color=blue)
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=ahcene-11&color=blue)
+
