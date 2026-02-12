@@ -9,7 +9,7 @@
 - 🌱 J'apprends actuellement : Spring Boot
 - 💡 Intéressé par le développement backend
 - 📫 Contact : amouchasahcene11@gmail.com
-
+- 💼 LinkedIn : https://www.linkedin.com/in/ahc%C3%A8ne-amouchas-a3037a327/
 ---
 
 ### Langages 
@@ -24,6 +24,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=spring,symfony,react,tailwind" />
 </p>
+
 ---
 
 ## Bases de données
