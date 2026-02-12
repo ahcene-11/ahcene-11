@@ -44,3 +44,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=TON_USERNAME&color=blue)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
