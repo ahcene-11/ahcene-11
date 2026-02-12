@@ -12,26 +12,34 @@
 
 ---
 
-### 🛠️ Langages 
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+### Langages 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,py,c" />
 </p>
 
 ---
 
-## ⚙️ Frameworks 
+## Frameworks 
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,symfony,react,tailwind" />
 </p>
+---
 
 ## Bases de données
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## Autres technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Mercure](https://img.shields.io/badge/Mercure-FF6F00?style=for-the-badge)
+
+## IDE 
 <p>
-  <img src="https://skillicons.dev/icons?i=mariadb" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
 </p>
