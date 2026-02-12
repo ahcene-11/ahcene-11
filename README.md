@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Salut 👋, moi c'est Ahcene</h1>
+<h3 align="center">Étudiant en informatique 💻 | Passionné par le développement</h3>
 
-<!--
-**ahcene-11/ahcene-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Étudiant en informatique
+- 🌱 J'apprends actuellement : Spring Boot
+- 💡 Intéressé par le développement backend
+- 📫 Contact : amouchasahcene11@gmail.com
+
+---
+
+### 🛠️ Langages et outils
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 Mes statistiques GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical)
